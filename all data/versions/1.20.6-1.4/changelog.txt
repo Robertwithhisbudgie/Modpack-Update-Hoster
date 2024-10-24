@@ -1,0 +1,4 @@
+1.20.6 release
+
+Removed Continuity due to Indium requirement.
+Replaced Longer Chat History with Chat Patches
