@@ -9,7 +9,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-0.9/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-1.0",
@@ -18,7 +18,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-1.0/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-1.1",
@@ -27,7 +27,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-1.1/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-1.2",
@@ -36,7 +36,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-1.2/"
             }
-        },
+        }},
 
 	{
         "id": "1.21-0.1",
@@ -45,7 +45,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-0.1/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-1.3",
@@ -54,7 +54,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-1.3/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-1.4",
@@ -63,7 +63,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-1.4/"
             }
-        },
+        }},
 
 	{
         "id": "1.21-0.2",
@@ -72,7 +72,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-0.2/"
             }
-        },
+        }},
 
 	{
         "id": "1.20-1.0",
@@ -81,7 +81,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20-1.0/"
             }
-        },
+        }},
 
 	{
         "id": "1.21-0.3",
@@ -90,7 +90,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-0.3/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-2.0",
@@ -99,7 +99,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-2.0/"
             }
-        },
+        }},
 
 
 	{
@@ -109,7 +109,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-0.4/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-2.1",
@@ -118,7 +118,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-2.1/"
             }
-        },
+        }},
 
 	{
         "id": "1.21-0.5",
@@ -127,7 +127,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-0.5/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-2.2",
@@ -136,7 +136,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-2.2/"
             }
-        },
+        }},
 
 	{
         "id": "1.21-0.6",
@@ -145,7 +145,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-0.6/"
             }
-        },
+        }},
 
 	{
         "id": "1.21-0.7",
@@ -154,16 +154,16 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-0.7/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-2.3",
         "releasedAt": 1720259520,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-2.3/",
+                "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-2.3/"
             }
-        },
+        }},
 
 	{
         "id": "1.21-0.8",
@@ -172,7 +172,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-0.8/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-2.4",
@@ -181,7 +181,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-2.4/"
             }
-        },
+        }},
 
 	{
         "id": "1.21-0.9",
@@ -190,7 +190,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-0.9/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-2.5",
@@ -199,7 +199,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-2.5/"
             }
-        },
+        }},
 
 	{
         "id": "1.21-1.0",
@@ -208,7 +208,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-1.0/"
             }
-        },
+        }},
 
 	{
         "id": "1.20.6-2.6",
@@ -217,7 +217,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.20.6-2.6/"
             }
-        },
+        }},
 
 	{
         "id": "1.21-1.1",
@@ -226,7 +226,7 @@
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/roberts-pack/version/1.21-1.1/"
             }
-        },
+        }
     }
   ]
 }
