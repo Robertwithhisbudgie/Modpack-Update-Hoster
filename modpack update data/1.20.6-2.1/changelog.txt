@@ -1,0 +1,5 @@
+1.20.6 release
+
+Fixed an issue in the option.txt file.
+Added a dark mode resource pack
+Updated some mods
