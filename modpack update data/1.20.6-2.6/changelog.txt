@@ -1,4 +1,0 @@
-1.20.6 release
-
-A powerful optimization of 1.20.6-2.5
-A lot more FPS and a lot less loading times

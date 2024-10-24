@@ -1,5 +1,0 @@
-1.21 alpha
-Testing Version
-
-Rebuild of 1.21-0.2 - Built from scratch
-Added a lot more mods

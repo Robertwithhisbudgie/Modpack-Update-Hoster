@@ -1,3 +1,0 @@
-1.20 release
-
-A quickly made version for 1.20

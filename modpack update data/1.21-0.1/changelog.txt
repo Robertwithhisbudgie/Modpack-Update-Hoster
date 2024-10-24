@@ -1,4 +1,0 @@
-1.21 alpha
-Testing Version
-
-An attempted port to 1.21, removing a bunch of mods, and updating the remaining.

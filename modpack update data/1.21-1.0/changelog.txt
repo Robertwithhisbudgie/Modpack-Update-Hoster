@@ -1,3 +1,0 @@
-1.21 release
-
-First 1.21 release deemed to have enough features and be stable enough that it isn't a beta

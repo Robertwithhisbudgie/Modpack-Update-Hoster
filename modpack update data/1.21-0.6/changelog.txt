@@ -1,7 +1,0 @@
-1.21 beta
-
-Replaced Isxander Main Menu Credits and Window Title with Modpack Core (which I made!).
-
-Replaced Controlify with midnight controls due to incompatibility with Modpack Core.
-
-Updated some mods

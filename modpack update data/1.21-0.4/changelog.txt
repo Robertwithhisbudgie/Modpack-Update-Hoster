@@ -1,4 +1,0 @@
-1.21 beta
-
-Loads of bugfixes
-First stable 1.21 version
